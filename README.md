@@ -1,3 +1,4 @@
 # test_project
 for practice
-2
+
+hello, world!
