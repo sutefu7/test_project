@@ -1,3 +1,3 @@
 # test_project
 for practice
-hello, world!
+2
